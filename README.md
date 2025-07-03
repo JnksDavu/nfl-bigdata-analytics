@@ -1,5 +1,7 @@
 # NFL Big Data Bowl 2025 - Análise Interativa
 
+Integrantes: Davi Andrzejewski Junkes, Gustavo Alchini, Luan Jacomini Costa e Fernando Ferreira da Cruz
+
 ![image](https://github.com/user-attachments/assets/f063771f-51a4-41f7-80a5-148b91b3a182)
 
 ![image](https://github.com/user-attachments/assets/df0fa446-9249-4ca1-9518-52accd0e3e29)
